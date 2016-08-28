@@ -6,7 +6,6 @@
 * [My toolbox](#my-toolbox)
 * [Work experience](#work-experience)
 * [Studies](#studies)
-* [Open source projects](#open-source-projects)
 * [On the side](#on-the-side)
 
 <a name="a-word-about-me"></a>A word about me
@@ -266,7 +265,18 @@ international experience.
 
 Java 5, Servlet, XHtml, Javascript, Oracle, Oracle Forms.
 
-<a name="personal-projects"></a>Personal Projects 
+<a name="studies"></a>Studies
+==
+
+### Institut Supérieur d'informatique 2006-2008
+
+###### AEC - Programmation, réseautique et télécommunications
+
+### Collège Maisonneuve
+
+###### DEC (incomplete) - Technologies de l'électronique
+
+<a name="on-the-side"></a>On the side
 ==
 
 ### Professional Trainer
