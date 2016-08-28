@@ -9,7 +9,7 @@
 * [Open source projects](#open-source-projects)
 * [On the side](#on-the-side)
 
-A word about me <a name="a-word-about-me"></a>
+<a name="a-word-about-me"></a>A word about me
 ==
 
 I'm a Montreal born Canadian currently living in Paris and working as a
@@ -32,7 +32,7 @@ I am an underground electronic music fan, Formula 1 follower, cigar taster
 and I have a serious problem with pizza. On the weekend you will find me
 riding my motorcycle or walking my weiner dog.
 
-Achievements <a name="achievements"></a>
+<a name="achievements"></a>Achievements
 ==
 
 * Started as a Java Developer and ended Java Architect after 7 years.
@@ -48,7 +48,7 @@ Achievements <a name="achievements"></a>
 * Open sourced a modern lightweight ERP Solution for small business named
   [Kubik](https://github.com/daniellavoie/kubik).
 
-Some numbers <a name="some-numbers"></a>
+<a name="some-numbers"></a>Some numbers
 ==
 
 * Built a distributed stateless and reactive system broadcasting 200 000
@@ -62,7 +62,7 @@ Some numbers <a name="some-numbers"></a>
   [Librairie Fei](http://www.librairie-fei.com/)). Manages a 300 000 € yearly
   turnover.
 
-My toolbox <a name="my-toolbox"></a>
+<a name="my-toolbox"></a>My toolbox
 ==
 
 * Spring :
@@ -101,7 +101,7 @@ My toolbox <a name="my-toolbox"></a>
     Ansible,
     AWS
 
-Work experience <a name="work-experience"></a>
+<a name="work-experience"></a>Work experience
 ======
 
 Invivoo (since 2015-08)
@@ -266,7 +266,8 @@ international experience.
 
 Java 5, Servlet, XHtml, Javascript, Oracle, Oracle Forms.
 
-## Personal Projects <a name="personal-projects"></a>
+<a name="personal-projects"></a>Personal Projects 
+==
 
 ### Professional Trainer
 
