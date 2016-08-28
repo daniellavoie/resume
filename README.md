@@ -3,7 +3,7 @@
 * [A word about me](#a-word-about-me)
 * [Achievements](#achievements)
 * [Some numbers](#some-numbers)
-* [My toolbox](#my-tool-box)
+* [My toolbox](#my-toolbox)
 * [Work experience](#work-experience)
 * [Studies](#studies)
 * [Open source projects](#open-source-projects)
@@ -23,7 +23,7 @@ possible in order to build myself a proper toolbox.
 This toolbox allows me to find the right tool for the right needs.
 I am a pragmatic worker focusing on time to market while still giving proper
 attention to maintainability and refactoring.
-I also give professional training session for
+I also give professional training sessions for
 [Ambient IT](https://www.ambient-it.net/) on subjects like
 [Spring Cloud](http://projects.spring.io/spring-cloud/) and
 [Elasticsearch](https://www.elastic.co/fr/products/elasticsearch).
@@ -48,12 +48,12 @@ Achievements <a name="achievements"></a>
 * Open sourced a modern lightweight ERP Solution for small business named
   [Kubik](https://github.com/daniellavoie/kubik).
 
-Some numbers <a name="a-word-about-me"></a>
+Some numbers <a name="some-numbers"></a>
 ==
 
 * Built a distributed stateless and reactive system broadcasting 200 000
   realtime audited prices every day.
-* Stabilized a buggy and legacy JEE application which allowed to scale down a
+* Stabilized a buggy and legacy JEE application which allowed to scale down a  
   team of 20 developers to 6.
 * Maintained an Exotic Product Referential allowing to price 20 000 exotics
   product with an in house business language.
@@ -62,7 +62,7 @@ Some numbers <a name="a-word-about-me"></a>
   [Librairie Fei](http://www.librairie-fei.com/)). Manages a 300 000 € yearly
   turnover.
 
-My toolbox
+My toolbox <a name="my-toolbox"></a>
 ==
 
 * Spring :
@@ -101,7 +101,7 @@ My toolbox
     Ansible,
     AWS
 
-Work experience
+Work experience <a name="work-experience"></a>
 ======
 
 Invivoo (since 2015-08)
@@ -266,15 +266,12 @@ international experience.
 
 Java 5, Servlet, XHtml, Javascript, Oracle, Oracle Forms.
 
-## Open Source Projects <a name="open-source-projects"></a>
- - Spring Cloud
- - Kubik
-
 ## Personal Projects <a name="personal-projects"></a>
 
 ### Professional Trainer
 
-I work Ambient IT as a trainer of subjects like Spring Cloud and Elasticsearch.
+I work with [Ambient IT](https://www.ambient-it.net/) as a trainer of subjects
+like Spring Cloud and Elasticsearch.
 I will travel around France once a month to give some 2/3 days training
 sessions.
 
@@ -288,12 +285,12 @@ of code addition.
 
 ### Kubik ERP System
 
-I started Kubik has I couldn't find any lightweight ERP system for the book
+I started Kubik as I couldn't find any lightweight ERP system for the book
 store of my girlfriend. Kubik ended up being a SaaS friendly piece of software.
-It handles, supplier order reception, inventory, cash register, invoices, etc.
+It handles supplier order reception, inventory, cash register, invoices, etc.
 
 Backend end is built on Spring Boot and front end on Angular JS 1. New instances
 of the platform are deployed on demand with Docker. The software is currently
-used into 2 stores and manages yearly a 300 000€ turnover.
+used by 2 different book stores and manages a 300 000€ turnover yearly.
 
 Rich sales reporting are provided with Elasticsearch and Kibana.
