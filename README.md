@@ -1,8 +1,11 @@
 # <center>Daniel Lavoie - Senior Java Developer</center>
 
 <center>Fluent in French and English</center>
+
 <center>dlavoie@live.ca</center>
+
 <center>+33 6 45 97 73 33</center>
+
 <center>https://github.com/daniellavoie</center>
 
 Table of Contents
