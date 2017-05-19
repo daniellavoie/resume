@@ -1,12 +1,12 @@
-# <div style="text-align:center">Daniel Lavoie - Senior Java Developer</div>
+# Daniel Lavoie - Senior Java Developer</div>
 
-<div style="text-align:center">Fluent in French and English</div>
+* Fluent in French and English</div>
 
-<div style="text-align:center">dlavoie@live.ca</div>
+* dlavoie@live.ca</div>
 
-<div style="text-align:center">+33 6 45 97 73 33</div>
+* +33 6 45 97 73 33</div>
 
-<div style="text-align:center">https://github.com/daniellavoie</div>
+* https://github.com/daniellavoie
 
 Table of Contents
 ==
